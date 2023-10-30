@@ -1,2 +1,2 @@
 # SQL-Docs
-sql
+Some random 'SQL' code snippets.
